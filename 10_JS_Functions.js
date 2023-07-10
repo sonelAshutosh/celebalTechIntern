@@ -21,3 +21,10 @@ function rec(n) {
 }
 
 rec(5)
+
+// Arrow Functions
+const aarrowFunction = () => {
+  console.log('This is a arrow function')
+}
+
+aarrowFunction()
